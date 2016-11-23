@@ -41,10 +41,10 @@
         }
     },
     "require": {
-        "ertiz/omnipay/common": "~2.0"
+        "ertiz/omnipay-common": "~2.0"
     },
     "require-dev": {
-        "ertiz/omnipay/tests": "~2.0"
+        "ertiz/omnipay-tests": "~2.0"
     },
     "extra": {
         "branch-alias": {
